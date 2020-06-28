@@ -1,0 +1,45 @@
+C:\Users\Li\Desktop\abb_irb120>python master.py
+(1, 181, 211)
+Yellow
+(2, 192, 206)
+Red
+(3, 194, 169)
+Green
+(3, 194, 224)
+Green
+(1, 191, 203)
+Yellow
+(2, 183, 231)
+Red
+(1, 190, 224)
+Yellow
+(3, 185, 254)
+Green
+(2, 193, 239)
+Red
+(1, 190, 219)
+Yellow
+(1, 196, 239)
+Yellow
+(3, 184, 233)
+Green
+(2, 188, 211)
+Red
+(1, 182, 198)
+Yellow
+(2, 181, 255)
+Red
+(3, 184, 203)
+Green
+(2, 190, 242)
+Red
+(1, 189, 267)
+Yellow
+(2, 183, 243)
+Red
+(2, 210, 263)
+Red
+(1, 191, 235)
+Yellow
+(3, 184, 162)
+Green

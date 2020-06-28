@@ -1,0 +1,8 @@
+<launch>
+
+	<!-- Turtlesim Node-->
+	<node pkg="abb_irb120_nospeed" type="camera_topic.py" name="camera_topic" output="screen"/>
+	<node pkg="abb_irb120_nospeed" type="master.py" name="master" output="screen"/>
+
+
+</launch>

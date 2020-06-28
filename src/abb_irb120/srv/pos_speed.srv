@@ -1,0 +1,6 @@
+
+---
+int16 pos_x
+int16 pos_y
+int16 color
+float32 speed

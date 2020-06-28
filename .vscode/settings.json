@@ -1,0 +1,12 @@
+{
+    "ros.distro": "kinetic",
+    "python.autoComplete.extraPaths": [
+        "/home/li/ROS/realsense/devel/lib/python2.7/dist-packages",
+        "/home/li/ROS/abb_ws/devel/lib/python2.7/dist-packages",
+        "/home/li/ROS/probot_ws/devel/lib/python2.7/dist-packages",
+        "/home/li/ROS/myros/devel/lib/python2.7/dist-packages",
+        "/home/li/ROS/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages"
+    ],
+    "python.pythonPath": "/usr/bin/python"
+}
